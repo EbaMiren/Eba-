@@ -1,0 +1,7 @@
+{
+  "name": "Euskara B2 Mintzamena",
+  "description": "Euskara B2 mailako ahozko azterketa prestatzeko aplikazio osoa: gaiak, simulagailua eta AI bidezko feedbacka.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
